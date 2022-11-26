@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GeoNicol
+- 👀 I’m interested in FinTech and Blockchain Technologies
+- 🌱 I’m currently learning Solidity and all things Etherium and DAOs
+- 💞️ I’m looking to collaborate on any Web3 project
+- 📫 How to reach me @GeoNicolaidis on Twitter
