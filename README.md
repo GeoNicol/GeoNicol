@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @GeoNicol
-- 👀 I’m interested in FinTech and Blockchain Technologies
-- 🌱 I’m currently learning Solidity and all things Ethereum
-- 💞️ I’m looking to collaborate on any Web3 project
-- 📫 How to reach me @GeoNicolaidis on Twitter
+- Hi, I’m Geo
+- I’m interested in FinTech and Blockchain Technologies
+- I’m currently learning Solidity and all things Ethereum
+- My main programming language is Python
+- I’m looking to collaborate on any Web3 or AI-related projects
+- Reach me @GeoNicolaidis on Twitter
